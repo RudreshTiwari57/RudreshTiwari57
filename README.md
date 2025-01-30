@@ -39,4 +39,4 @@ Rudresh Tiwari
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rudreshtiwari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rudresh-tiwari-406a63201)
