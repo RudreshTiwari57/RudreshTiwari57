@@ -6,17 +6,6 @@ Rudresh Tiwari
   <strong>Automation Test Engineer | Selenium | API Testing | CI/CD</strong>
 </p>
 
-<p align="center">
-  <a href="https://opensource.org/licenses/Apache-2.0">
-    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg">
-  </a>
-  <a href="https://discord.gg/7GaTvbDwga">
-    <img src="https://img.shields.io/discord/1287729918100246654?logo=discord&logoColor=white&label=Join+Us&color=blueviolet" alt="Discord">
-  </a>
-  <a href="https://github.com/RudreshTiwari/actions/workflows/ci.yml">
-     <img src="https://img.shields.io/github/actions/workflow/status/RudreshTiwari/ci.yml?branch=main" alt="CI">
-  </a>
-</p>
 
 ## 🛠 Tech Stack & Skills
 
